@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Loserworldbiomejj"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#3"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.GLOWSTONE"
+    },
+    "portalParticles": {
+      "value": "LAVA"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Loserworldjj Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:MrbotYTsmoddedstuff"
+    },
+    "texture": "loserworldportalignighter",
+    "portalTexture": "loserworldportalblockjj",
+    "enablePortal": true
+  }
+}
