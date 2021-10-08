@@ -1,0 +1,57 @@
+{
+  "_fv": 24,
+  "_type": "fluid",
+  "definition": {
+    "name": "Plasmajj",
+    "bucketName": "Bucket Of Plasma",
+    "textureStill": "plasma_stilljj",
+    "textureFlowing": "plasma_stilljj",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 10,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "LAVA"
+    },
+    "flowStrength": 4.8999999999999995,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 300,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "conatiner_of_plasmajj",
+    "creativeTab": {
+      "value": "CUSTOM:MrbotYTsmoddedstuff"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Is condsidered hotter than lava. This plasma sucks you in."
+    ],
+    "resistance": 100.0,
+    "luminance": 15,
+    "lightOpacity": 0,
+    "emissiveRendering": true,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 20,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "void"
+      }
+    ]
+  }
+}

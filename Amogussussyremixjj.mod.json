@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "amogussussyremixdiskjj",
+    "name": "Amogus sussy remix disk",
+    "description": "SUSSY",
+    "creativeTab": {
+      "value": "CUSTOM:MrbotYTsmoddedstuff"
+    },
+    "music": {
+      "value": "CUSTOM:susjj"
+    },
+    "specialInfo": [
+      "sus amogus"
+    ],
+    "hasGlow": true
+  }
+}
