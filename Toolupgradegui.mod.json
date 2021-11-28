@@ -1,0 +1,196 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 400,
+    "height": 166,
+    "inventoryOffsetX": -110,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "tool upgrader",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "tool upgrader",
+          "x": 177,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "(super scuffed)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "(super scuffed)",
+          "x": 172,
+          "y": 51
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 143,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "plus",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "plus",
+          "x": 166,
+          "y": 69
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 191,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "equals",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "equals",
+          "x": 224,
+          "y": 68
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 267,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "upgrade:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "upgrade:",
+          "x": 261,
+          "y": 101
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Sword",
+          "onClick": {
+            "name": "Swordupgradingprocedure"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Sword",
+          "x": 197,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Axe",
+          "onClick": {
+            "name": "Axeupgradingprocedure"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Axe",
+          "x": 281,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Pickaxe",
+          "onClick": {
+            "name": "Pickaxeupgradingprocedure"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Pickaxe",
+          "x": 197,
+          "y": 139
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Shovel",
+          "onClick": {
+            "name": "Shovelupgradingprocedure"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Shovel",
+          "x": 281,
+          "y": 139
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Hoe",
+          "onClick": {
+            "name": "Hoeupgradingprocedure"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Hoe",
+          "x": 197,
+          "y": 158
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
