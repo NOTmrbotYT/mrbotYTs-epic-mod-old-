@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "sniper",
+    "customModelName": "Normal",
+    "name": "Sniper",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MrbotYTsmoddedstuff"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Bulletjj"
+    },
+    "shootConstantly": false,
+    "usageCount": 575,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 5.0,
+    "bulletDamage": 20.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bulletjj"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}
